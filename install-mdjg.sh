@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# just Test
 #Java
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt update
